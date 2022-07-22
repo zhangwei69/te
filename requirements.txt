@@ -1,0 +1,4 @@
+python-telegram-bot==12.4.2
+schedule==0.6.0
+requests==2.27.1
+pytz
